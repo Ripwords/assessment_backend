@@ -120,15 +120,16 @@ def ask():
         return {"error": "Please provide a question"}, 400
     
     location = str(request.args.get('location'))
-    # Get data from this location in the database
-    location_data = next((location for location in database if location["name"] == location), None)
+    # Make first character of each word uppercase
+    location = location.title()
     
     answerType = answer_type(question)
     analysis = model.analyze(question)
+    print(analysis)
 
     if (answerType == 'count_stores'):
         for i in analysis:
-            if (i['type'] == 'GPE'):
+            if (i['type'] == 'GPE' or i['type'] == 'ORG'):
                 # Go through the database and count the number of stores with the location in the address
                 count = 0
                 for location in database:
@@ -138,7 +139,9 @@ def ask():
                         if 'Kuala Lumpur' in location["info"]["address"]:
                             count += 1
                 print(count)
-                return {'response': f"There are {count} store{'s' if count > 1 else ''} in {' '.join(i['text'])}."}
+                return {'response': f"There {'is' if count == 1 else 'are'} {count} store{'s' if count > 1 else ''} in {' '.join(i['text'])}."}
+        return {'response': 'I am sorry, no locations were found in your question.'}    
+        
 
     elif (answerType == 'operating_earliest'):
         # Go through the database and find the operating hours of the store
@@ -180,10 +183,12 @@ def ask():
                     latest = timeSplitNum
                     latest_location = location["name"]
 
-        return {'response': f"The latest operating hour for {latest_location} is {latest}."}
+        return {'response': f"The latest operating hour is {latest_location}."}
             
     elif (answerType == 'others'):
         return {'response': 'I am sorry, I do not understand the question.'}
+    
+    return {'response': 'I am sorry, I do not understand the question.'}
 
 if __name__ == '__main__':
     app.run()

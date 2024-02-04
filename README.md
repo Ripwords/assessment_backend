@@ -14,6 +14,8 @@ pip install -r requirements.txt
 
 The .env file should contain your geocoding API Key from Google, and an API Key for the python server.
 
+To apply for the geocoding API Key from Google, visit the following link: [Google Geocoding Services](https://developers.google.com/maps/documentation/javascript/geocoding#GetStarted)
+
 ```bash
 GEOCODE_API_KEY=your_geocoding_api_key
 MY_SECRET=your_secret

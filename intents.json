@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "tag": "operating_hour",
+      "patterns": [
+        "What are your operating hours?",
+        "What time are you open?",
+        "What stores closest the latest?"
+      ],
+      "responses": [
+        "operating_hour"
+      ]
+    },
+    {
+      "tag": "count_stores",
+      "patterns": [
+        "How many stores in KL?",
+        "How many stores in Bangsar?",
+        "How many stores in Kajang?"
+      ],
+      "responses": [
+        "count_stores"
+      ]
+    }
+  ]
+}

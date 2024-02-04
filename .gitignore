@@ -1,0 +1,4 @@
+.env
+*.pickle
+/chat_model
+__pycache__

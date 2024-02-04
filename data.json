@@ -1,0 +1,2300 @@
+[
+  {
+    "name": "Subway Menara UOA Bangsar",
+    "info": {
+      "address": "Jalan Bangsar Utama 1, Unit 1-2-G, Menara UOA Bangsar, Kuala Lumpur, 59000",
+      "coordinates": {
+        "lat": 3.127005,
+        "lng": 101.6768552
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 8:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/8n6W5Syy3vUAGeQV8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-menara-uoa-bangsar?place=ChIJPWFRH5RJzDERvHvlO1uTQpY"
+    }
+  },
+  {
+    "name": "Subway One Utama",
+    "info": {
+      "address": "318A One Utama, Lower Ground Floor, New Wing, 1 Utama Shopping Centre, Petaling Jaya, 47800",
+      "coordinates": {
+        "lat": 3.1480679,
+        "lng": 101.6164417
+      },
+      "operating_hours": [
+        "0800 - 2200 (Sun - Thur)",
+        "0800 - 2230 (Fri & Sat)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/HKWPatmHzHX4YqedA",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/1-utama-shopping-centre?place=ChIJL-Qvn9JOzDERBLmeTTrrgf0"
+    }
+  },
+  {
+    "name": "Subway Jln Pinang",
+    "info": {
+      "address": "G9, Wisma UOA II, 19, Jalan Pinang, Kuala Lumpur, 50450",
+      "coordinates": {
+        "lat": 3.1525875,
+        "lng": 101.712256
+      },
+      "operating_hours": [
+        "Monday - Saturday, 8:00 AM \u2013 9:00PM",
+        "Sunday, 11:30 AM \u2013 6:30PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/iLgjQHPoB2Sm9Mcg8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-jalan-pinang-kl?place=ChIJIzvym9Q3zDER9MZj809Opn0"
+    }
+  },
+  {
+    "name": "Subway UOA Damansara",
+    "info": {
+      "address": "Unit 50-G-5, Ground Floor, Wisma UOA Damansara, No. 50, Jalan Dungun, Kuala Lumpur, 50490",
+      "coordinates": {
+        "lat": 3.1517288,
+        "lng": 101.6660061
+      },
+      "operating_hours": [
+        "Monday - Saturday, 8:00 AM \u2013 8:30PM",
+        "Sunday, Closed"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/gC9G9RL9KSoBtPVP9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-wisma-uoa-damansara?place=ChIJa5Vpq1RIzDER8-Wwe3eFNUI"
+    }
+  },
+  {
+    "name": "Subway The Mines",
+    "info": {
+      "address": "Lot L1-93, Level 1, Mines Shopping Fair,Jln Dulang, Mines Resort City, Seri Kembangan, 43300",
+      "coordinates": {
+        "lat": 3.028038,
+        "lng": 101.7190912
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/s5Xojk7VTxYChDk58",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-the-mines-shopping-mall-jalan-dulang,-l1-93-seri-kembangan?place=w.66650142.666632495.27412970"
+    }
+  },
+  {
+    "name": "Subway Mont Kiara",
+    "info": {
+      "address": "E-01-16 ,Block E, Plaza Mont Kiara, 2 Jalan Kiara, Mont Kiara, Kuala Lumpur, 50480",
+      "coordinates": {
+        "lat": 3.1656857,
+        "lng": 101.6519562
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/tGLv7WnCUS1ZXV6i9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-plaza-montkiara?place=ChIJ62Fw6vFIzDEReI7qDH2RtxQ"
+    }
+  },
+  {
+    "name": "Subway Amcorp Mall",
+    "info": {
+      "address": "(Canopy Area), Lot KG-05, 18 Jln Persiaran, Ground Floor, Barat, Petaling Jaya, 46050",
+      "coordinates": {
+        "lat": 3.0954028,
+        "lng": 101.6407705
+      },
+      "operating_hours": [
+        "Monday - Friday, 9:00 AM \u2013 10:00PM",
+        "Saturday & Sunday, 10:00 AM \u2013 10:00PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/Y8Xgz2fVHNZR5oRf8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-@-amcorp-mall-pj?place=ChIJgcEy_dpLzDERqz_XQPpVA2U"
+    }
+  },
+  {
+    "name": "Subway Avenue K",
+    "info": {
+      "address": "Lot UC-8 & 9, Upper Concourse Level, Avenue K, No. 156, Jalan Ampang, Kuala Lumpur, 50450",
+      "coordinates": {
+        "lat": 3.158154,
+        "lng": 101.7120899
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/7btXNukrfAr3rKie6",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-avenue-k-lot-uc-8-and-9,-upper-concourse-level,-avenue-k-kuala-lumpur?place=w.66650144.666566972.27413004"
+    }
+  },
+  {
+    "name": "Subway Center Point",
+    "info": {
+      "address": "Lebuh Bandar Utama, Center Point, Lot G104B Gr Floor, Petaling Jaya, 47800",
+      "coordinates": {
+        "lat": 3.1467185,
+        "lng": 101.6119073
+      },
+      "operating_hours": [
+        "Monday, 8:00 AM \u2013 10:00PM",
+        "Tuesday - Wednesday, 8:00 AM \u2013 10:30PM",
+        "Thursday, 8:00 AM \u2013 9:00PM",
+        "Friday & Saturday, 8:00 AM \u2013 11:00PM",
+        "Sunday, 8:00 AM \u2013 10:30PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/vDnAVtkzWSMZX2cZ8",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-lebuh-bandar-utama-lebuh-bandar-utama,-center-point,-lot-g104b-petaling-jaya?place=w.66584607.665911610.27441776"
+    }
+  },
+  {
+    "name": "Subway Shell Sunway Mentari",
+    "info": {
+      "address": "1, Jalan PJS 8/9 (Shell) Bandar Sunway, 46000 Selangor",
+      "coordinates": {
+        "lat": 3.0795253,
+        "lng": 101.6096226
+      },
+      "operating_hours": [
+        "Monday - Sunday, Open 24 Hours"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/L7bjJgc2Ws1P9wPBA",
+      "waze": "https://waze.com/ul?ll=3.079525,101.609623"
+    }
+  },
+  {
+    "name": "Subway Berjaya Times Square",
+    "info": {
+      "address": "Lot 03-103, 3rd Floor, Berjaya Times Square, No. 1, Jalan Imbi, Kuala Lumpur, 55100",
+      "coordinates": {
+        "lat": 3.1425177,
+        "lng": 101.7103847
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/DqrssLpMUcFQbMmT6",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-berjaya-times-square-lot-03-103,-3rd-floor,-berjaya-times-square-kuala-lumpur?place=w.66650143.666566970.27413449"
+    }
+  },
+  {
+    "name": "Subway Capsquare",
+    "info": {
+      "address": "Ground Floor, Unit 01-02, Cap Square Tower, 10 Jalan Munshi Abdullah, Kuala Lumpur, 50100",
+      "coordinates": {
+        "lat": 3.1542071,
+        "lng": 101.6987835
+      },
+      "operating_hours": [
+        "Monday - Saturday, 8:00 AM \u2013 9:00PM",
+        "Sunday, Closed"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/UAMitMeYmLT22NzY7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-capsquare?place=ChIJy-MVCLdJzDER31pWsrn_WZE"
+    }
+  },
+  {
+    "name": "Subway Aeon AU2",
+    "info": {
+      "address": "Aeon AU2 Shopping Center, 6, Jln 37/36 Taman Setiawangsa, Lot G49, Taman Keramat, Kuala Lumpur, 54200",
+      "coordinates": {
+        "lat": 3.1774938,
+        "lng": 101.7399136
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/V6bVi1nvjHD8yz8w9",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-aeon-au2-aeon-au2-shopping-center-kuala-lumpur?place=w.66715680.666829118.27413005"
+    }
+  },
+  {
+    "name": "Subway Aeon Big Subang",
+    "info": {
+      "address": "F1-23 AEON BIG, Level 1 No.3 Jalan SS 16/1,Subang Jaya, Selangor 47500",
+      "coordinates": {
+        "lat": 3.0825798,
+        "lng": 101.5880157
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/rVoikDvnYewadcW97",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-aeon-big-f1-23-aeon-big,-level-1-no.3-subang-jaya?place=w.66584607.665780532.27413993"
+    }
+  },
+  {
+    "name": "Subway University Malaya",
+    "info": {
+      "address": "Faculty of Dentistry, Level 1, Block B, University of Malaya, Kuala Lumpur, 50603",
+      "coordinates": {
+        "lat": 3.1219268,
+        "lng": 101.6569942
+      },
+      "operating_hours": [
+        "Monday - Friday, 6:30 AM \u2013 10:00PM",
+        "Saturday & Sunday, 8:00 AM \u2013 3:00PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/gSAoGE2W5mQVaK5m9",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-university-of-malaya-university-of-malaya-faculty-of-dentistry-petaling-jaya?place=w.66650143.666173751.27402188"
+    }
+  },
+  {
+    "name": "Subway Jade Hills",
+    "info": {
+      "address": "No 40-G, Jalan Jade Hills Utama 1/2, Commerce Village, Jade Hills, 43000 Kajang, Selangor.",
+      "coordinates": {
+        "lat": 2.9941139,
+        "lng": 101.758669
+      },
+      "operating_hours": []
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/Y65Ti6Dk5sEbKCeQ9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/kajang/subway-jade-hill?place=ChIJuRzJknvLzTERiX5pZXHT0gw"
+    }
+  },
+  {
+    "name": "Subway Wangsa Walk",
+    "info": {
+      "address": "Wangsa Ave, Bandar Wangsa Maju, #9 Jalan Perdana 1, G-52, Wangsa Walk Mall, Kuala Lumpur, 53300",
+      "coordinates": {
+        "lat": 3.1985818,
+        "lng": 101.7422055
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:30 AM - 9:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/YExRKp69pyMbvRRK7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-wangsa-walk-mall-g-52,-wangsa-walk-mall-kuala-lumpur?place=w.66650144.666763584.27401138"
+    }
+  },
+  {
+    "name": "Subway TTDI",
+    "info": {
+      "address": "Lvl1, Petronas Svs Station TTDI,Lot29395 & 29396, Pinggir Zaaba, Taman Tun Dr Ismail, Kuala Lumpur, 60000",
+      "coordinates": {
+        "lat": 3.1419575,
+        "lng": 101.6252166
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:30 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/YEfiHZ8j8dx16xoo6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-pinggir-zaaba-taman-tun?place=ChIJuRYqITBJzDER76oB2espXlU"
+    }
+  },
+  {
+    "name": "Subway Plaza Shah Alam",
+    "info": {
+      "address": "Lot No. G 17, Ground Floor, Plaza Shah Alam, Sekysen 9, Shah Alam, 40100",
+      "coordinates": {
+        "lat": 3.0847335,
+        "lng": 101.5234197
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:30 AM \u2013 09:30PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/z1rTfnCDbHYeZ8fT6",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-@plaza-shah-alam-lot-g17,-plaza-shah-alam?place=w.66519071.665321780.27398400"
+    }
+  },
+  {
+    "name": "Subway Taipan",
+    "info": {
+      "address": "7A, Jalan USJ 10/1j, Taipan Business Centre, 47620 Subang Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.0479318,
+        "lng": 101.5860154
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 8:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/AbqYJY7Wn6ux7Cah7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-taipan-jalan-usj-101j-7-subang-jaya?place=w.66584606.665780529.2845552"
+    }
+  },
+  {
+    "name": "Subway Menara Aras Jaya",
+    "info": {
+      "address": "LG Floor, Menara Bumiputra Commerce, No 11, Jalan Raja Laut, 50350 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1551486,
+        "lng": 101.6952541
+      },
+      "operating_hours": [
+        "Monday - Friday, 8:00 AM \u2013 9:00PM",
+        "Saturday & Sunday, 10:00 AM \u2013 7:00PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/8qH3VyCpgLbH5pEj7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-cimb-cimb-11-jalan-raja-laut,-lower-ground-floor-kuala-lumpur?place=w.66650144.666501436.27395039"
+    }
+  },
+  {
+    "name": "Subway Petronas Ampang Point",
+    "info": {
+      "address": "Petronas Gas Station/C-Store, Lot 36904 TT27423, Jalan Air Kolam Lama, Ampang, 68000",
+      "coordinates": {
+        "lat": 3.149099,
+        "lng": 101.7624521
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:30 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/CD7AHYyc9F5FyWh96",
+      "waze": "https://waze.com/ul?ll=3.160388,101.756010"
+    }
+  },
+  {
+    "name": "Subway Tesco Kepong",
+    "info": {
+      "address": "Tesco Kepong Village Mall, Lot No. 14, 1st Floor, No. 3 Jalan 7A/62A Bandar Manjalara, Kuala Lumpur, 52200",
+      "coordinates": {
+        "lat": 3.1950817,
+        "lng": 101.6329131
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:15 AM - 9:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/oU5kc3t5wmcpUGtSA",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-lotuss-kepong-village-lot-no.-14,-1st-floor,-lotuss-kepong-village-mall-kuala-lumpur?place=w.66584608.666042687.27399057"
+    }
+  },
+  {
+    "name": "Subway Jalan Ipoh",
+    "info": {
+      "address": "No. 447, Jalan Ipoh, Batu 3, Taman Million, 51200 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1821279,
+        "lng": 101.6822031
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/btJSCMofMMihpJRA8",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-rivercity-village-468-1(1),-ground-floor,-block-f-rivercity-village-kuala-lumpur?place=w.66650144.666370366.16193787"
+    }
+  },
+  {
+    "name": "Subway Selayang Mall",
+    "info": {
+      "address": "Selayang Mall, GSW .5A, Ground Floor, Batu Caves, 68100",
+      "coordinates": {
+        "lat": 3.2371305,
+        "lng": 101.6437836
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/ASB3zVxQDLHHXuvt7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-selayang-mall-5a,-ground-floor,-selayang-mall-batu-caves?place=w.66584608.666108228.27398140"
+    }
+  },
+  {
+    "name": "Subway AEON BIG Puchong",
+    "info": {
+      "address": "AEON BIG Shopping Center, Lot No G04 Ground Floor, Lot 4029 Persiaran Selangor, Puchong Utama, 47100",
+      "coordinates": {
+        "lat": 3.0628552,
+        "lng": 101.520509
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/RQK91cobzMb6piZ47",
+      "waze": "https://ul.waze.com/ul?preview_venue_id=66584606.665911595.26934483&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    }
+  },
+  {
+    "name": "Subway Seksyen 13",
+    "info": {
+      "address": "Tadisma Business Park, Seksyen 13, 40100 Shah Alam, Selangor",
+      "coordinates": {
+        "lat": 3.089032,
+        "lng": 101.546357
+      },
+      "operating_hours": [
+        "Monday - Sunday (9:30AM - 10:30PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/JtACXtpPV1z7JZFW9",
+      "waze": "https://waze.com/ul?ll=3.089032,101.546357"
+    }
+  },
+  {
+    "name": "Subway Axis Atrium",
+    "info": {
+      "address": "Axis Atrium, Lot No. G-3 Ground Floor, Jalan Cempaka, Taman Cempaka Ampang, 68000",
+      "coordinates": {
+        "lat": 3.136544,
+        "lng": 101.7472814
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/jJ6or5VbvEmphD2q7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-axis-atrium-axis-atrium,-lot-no.-g-3-ground-floor-kuala-lumpur?place=w.66650143.666829114.27401140"
+    }
+  },
+  {
+    "name": "Subway Taman Prima Saujana",
+    "info": {
+      "address": "G-2A-GB, Jalan Prima Saujana 2/D, Taman Prima Saujana, 43000 Kajang, Selangor",
+      "coordinates": {
+        "lat": 3.0087878,
+        "lng": 101.8045032
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/FjT2cSZ6UzspWbSU9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/kajang/subway-prima-saujana?place=ChIJ5T1_lhrNzTERznG7echZSEc"
+    }
+  },
+  {
+    "name": "Subway Cova Square",
+    "info": {
+      "address": "G16, Cova Square Jalan Teknologi Pju5 Kota Damansara 47810 Petaling Jaya Selangor",
+      "coordinates": {
+        "lat": 3.1474439,
+        "lng": 101.5754342
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/9UHw56KDCLcMwdSu7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-cova-square-jalan-teknologi-16-petaling-jaya?place=w.66584607.665649467.17215766"
+    }
+  },
+  {
+    "name": "Subway Giant Bandar Kinrara - Puchong",
+    "info": {
+      "address": "Giant Hypermkt Bandar Kinrara, Lot No:G8, Lot 449, Jalan BK 5A/1, Bandar Kinrara, Puchong, 47100",
+      "coordinates": {
+        "lat": 3.050157,
+        "lng": 101.6463211
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:30 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/8QbZggP81NkvRqgd7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/puchong/subway-@-giant-hypermarket-bandar-kinrara?place=ChIJQWetUDxLzDERNXcKhA-KR-A"
+    }
+  },
+  {
+    "name": "Subway One City",
+    "info": {
+      "address": "One City@Skypark, C-GF-01 Ground Floor, Jalan USJ 25/1, Subang Jaya, 47650",
+      "coordinates": {
+        "lat": 3.0214182,
+        "lng": 101.5797093
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 7:45 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/3WQbV3pRqurgYwsY8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway?place=ChIJSx9gBCWzzTER0Qhz_gj_2QQ"
+    }
+  },
+  {
+    "name": "Subway Southgate",
+    "info": {
+      "address": "Pusat Komersial Southgate, No. 2, Jalan Dua, Unit E-1-6, Off Jalan Chan Sow Lin, Lvl 1, Kuala Lumpur, 55200",
+      "coordinates": {
+        "lat": 3.1245169,
+        "lng": 101.7106794
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/WPKWSDFH6QTSFEzt7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-southgate-commercial-center?place=ChIJd4K2SBw2zDERvbRfvxkCiEw"
+    }
+  },
+  {
+    "name": "Subway Brem Mall",
+    "info": {
+      "address": "G-06, Brem Mall, Jalan Kepong, Kepong, Kuala Lumpur, 52000",
+      "coordinates": {
+        "lat": 3.2044953,
+        "lng": 101.6674289
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/ixd6eBBJFt3ptX1UA",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-brem-mall-g-06,-brem-mall,-jalan-kepong,-kepong-kuala-lumpur?place=w.66650144.666304832.27401872"
+    }
+  },
+  {
+    "name": "Subway Festival City",
+    "info": {
+      "address": "Setapak Central Mall, Lot S-23, No. 67 Jalan Taman Ibu Kota, Taman Danau Kota, Setapak, Kuala Lumpur, 53200",
+      "coordinates": {
+        "lat": 3.205435,
+        "lng": 101.7199889
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/EhNGb1r5cTRCiUTTA",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-setapak-central-mall?place=ChIJ6fjTnRE4zDEReW77Yg4uqrY"
+    }
+  },
+  {
+    "name": "Subway Citta Mall",
+    "info": {
+      "address": "Lot F-09, 1st Floor, Citta Mall, No.1 Jln PJU 1A/48, PJU 1A, Ara Damansara, Petaling Jaya, 47301",
+      "coordinates": {
+        "lat": 3.1121867,
+        "lng": 101.5790712
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:30 AM - 8:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/tW8vtt4wa7LWbieM6",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-citta-mall-unit-f-09,-citta-mall,-ara-damansara,-ara-damansara-petaling-jaya?place=w.66584607.665714999.27401586"
+    }
+  },
+  {
+    "name": "Subway Aeon Big Wangsamaju",
+    "info": {
+      "address": "Aeon Big Wangsa Maju, F1-09, First Floor, Jalan 8/27A, Section 5, Wangsa Maju, 53300 Kuala Lumpur.",
+      "coordinates": {
+        "lat": 3.1964955,
+        "lng": 101.7431793
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/PMnJ1nRd6GL6LVPk6",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-aeon-big-wangsa-maju-f1-09,-first-floor,-aeon-big-wangsa-maju,-wangsa-maju-kuala-lumpur?place=w.66650144.666763584.27401144"
+    }
+  },
+  {
+    "name": "Subway Endah Parade",
+    "info": {
+      "address": "Endah Parade Shopping Complex, Lot G-013A, Ground Floor, Jalan 1/149E, Kuala Lumpur, 57000",
+      "coordinates": {
+        "lat": 3.0641872,
+        "lng": 101.6976758
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/eSC3DWQ6sKboa1D36",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-endah-parade-endah-parade-shopping-complex,-kuala-lumpur?place=w.66650143.666501426.27401582"
+    }
+  },
+  {
+    "name": "Subway NKVE",
+    "info": {
+      "address": "Lot 15385KM 15.3, (NKVE), Petronas New Klang Expressway, Damansara Bound, Sungai Buloh, 47000",
+      "coordinates": {
+        "lat": 3.1192383,
+        "lng": 101.5928717
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/hisULquJYCvKn8Nc6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/sungai-buloh/subway?place=ChIJ4VodophOzDERaGq4H8ZxsAw"
+    }
+  },
+  {
+    "name": "Subway Star Avenue",
+    "info": {
+      "address": "Star Avenue Lifestyle Mall, Lot No: L1-13 & L1-K2, No. 3, Jalan Zuhal U5/179, Pusat Komersial Arena Bintang,Seksyen U5, Shah Alam, 40150",
+      "coordinates": {
+        "lat": 3.1579726,
+        "lng": 101.5499299
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/4eDe7tmYDqHxUtLT8",
+      "waze": "https://waze.com/ul?ll=3.154583,101.553631"
+    }
+  },
+  {
+    "name": "Subway Metro Point",
+    "info": {
+      "address": "Metro Point Complex, Lot G03 Ground Floor, Jalan Jelok 8, Kajang, 43000",
+      "coordinates": {
+        "lat": 2.9916367,
+        "lng": 101.793722
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:30 AM - 9:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/5JTmhBTh5PJeStKS8",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-metro-point-complex-metro-point-complex,-lot-g03-ground-floor-kajang?place=w.66715678.667091243.27400766"
+    }
+  },
+  {
+    "name": "Subway Mydin USJ",
+    "info": {
+      "address": "G-42 & G-43, Ground Floor,Persiaran Subang Permai, USJ 1, 47500 Subang Jaya, Selangor.",
+      "coordinates": {
+        "lat": 3.0576204,
+        "lng": 101.5933612
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/cSchEYPRGoXQicZg8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-(mydin-subang-jaya-hypermarket)?place=ChIJA4PoRR5NzDERe-Q_fZOYgKM"
+    }
+  },
+  {
+    "name": "Subway TBS",
+    "info": {
+      "address": "Unit L4-29, 4th Floor, Terminal Bersepadu Selatan, Bandar Tasik Selatan, Kuala Lumpur, 57100",
+      "coordinates": {
+        "lat": 3.0780526,
+        "lng": 101.7110798
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM \u2013 8:00PM",
+        "Friday, 9:00 AM \u2013 9:00PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/r3USk9b93eNr1TkG7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-tbs?place=ChIJAVz8DF81zDERXWs-EKFOIF8"
+    }
+  },
+  {
+    "name": "Subway KWC (Kenanga)",
+    "info": {
+      "address": "KWC Fashion Mall, No.2, Jalan Gelugor, Lot G-08, Kuala Lumpur, 55200",
+      "coordinates": {
+        "lat": 3.1367328,
+        "lng": 101.7078259
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 8:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/5rg46qgzYbT2UM8z5",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-kwc-fashion-mall-lot-g-08-kwc-fashion-mall-kuala-lumpur?place=w.66650143.666566970.27400904"
+    }
+  },
+  {
+    "name": "Subway Selayang 18",
+    "info": {
+      "address": "Lot 3.06, 3rd Floor vendor letter SH-15-G,Grd Floor,Selayang, Kuala Lumpur, 68000 , Batu Caves, 68100",
+      "coordinates": {
+        "lat": 3.2378844,
+        "lng": 101.6840385
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/i2QQ7Ff7eHcUybTm8",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-selayang-18-persiaran-3-batu-caves?place=w.66650145.666173766.21949236"
+    }
+  },
+  {
+    "name": "Subway Sime Darby Parkcity",
+    "info": {
+      "address": "Sime Darby Parkcity, CP Retail 2, No. 2 Jalan Intisari, Perdana Desa Parkcity, Kuala Lumpur, 52200",
+      "coordinates": {
+        "lat": 3.1890642,
+        "lng": 101.6378278
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 9:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/KvVvurUummy7UmRo8",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-desa-park-city-sime-darby-parkcity,-cp-retail-2-kuala-lumpur?place=w.66584608.666108223.14350474"
+    }
+  },
+  {
+    "name": "Subway TM",
+    "info": {
+      "address": "Lower Ground 1 (LG1), Menara TM, Jalan Pantai Baharu, 50672 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1161294,
+        "lng": 101.665866
+      },
+      "operating_hours": [
+        "Monday, 10:00 AM \u2013 8:00PM",
+        "Tuesday - Thursday, 8:00 AM \u2013 8:00PM",
+        "Friday, 8:20 AM \u2013 8:00PM",
+        "Saturday, 9:00 AM \u2013 9:00PM",
+        "Sunday, Closed"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/99qoAm1VgoDNiQBV6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-menara-tm?place=ChIJ97qHTY1JzDEREeRr6wtfSts"
+    }
+  },
+  {
+    "name": "Subway GPS",
+    "info": {
+      "address": "Petronas Green Plus Station, Plus Hwy & Sungai Besi Hwy, Lot 896, Ground Floor, QSR 3, Mukim Kajang, Hulu Langat, 43300",
+      "coordinates": {
+        "lat": 3.0268724,
+        "lng": 101.7172349
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 11:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/zQCcGMSJE2NWwXoi7",
+      "waze": "https://waze.com/ul?ll=3.005880,101.725544"
+    }
+  },
+  {
+    "name": "Subway Sunway Lagoon",
+    "info": {
+      "address": "Sunway Lagoon Theme Park, FB-Z-001, 3, Jalan PJS 11/11, Bandar Sunway, Petaling Jaya, 46150",
+      "coordinates": {
+        "lat": 3.0693932,
+        "lng": 101.6067533
+      },
+      "operating_hours": [
+        "Monday - Sunday (10:00AM - 6:00PM)\nTuesday : Close"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/9Lfe4Qa8JVQ4d88s6",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-sunway-lagoon-sunway-lagoon-theme-park,-fb-z-001,-3-petaling-jaya?place=w.66584607.665911603.27401305"
+    }
+  },
+  {
+    "name": "Subway Sri Gombak",
+    "info": {
+      "address": "No. G100, Jalan Prima SG3/2, Taman Prima, Sri Gombak, Kuala Lumpur, 68100",
+      "coordinates": {
+        "lat": 3.2376664,
+        "lng": 101.700343
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/DDzQCbAiq6i4A3w26",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/batu-caves/subway?place=ChIJi5BmZXtHzDER519jKGFtoFk"
+    }
+  },
+  {
+    "name": "Subway Trillium, Lake Fields",
+    "info": {
+      "address": "No.66, Jalan Tasik Utama 7, Medan Niaga Tasik Damai, (Trillium) Lake Field, Sg Besi, Kuala Lumpur, 57000",
+      "coordinates": {
+        "lat": 3.0616377,
+        "lng": 101.708742
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:30 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/QEj3kknLjVUWQGqX8",
+      "waze": "https://waze.com/ul?ll=3.059890,101.710432"
+    }
+  },
+  {
+    "name": "Subway Ikon Connaught",
+    "info": {
+      "address": "Ikon Connaught, G-02A & Alfresco GA-02A, Ground Floor, Jalan Cerdas, Taman Connaught, Kuala Lumpur, 56100",
+      "coordinates": {
+        "lat": 3.0814954,
+        "lng": 101.7366397
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 8:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/72CcjY4XW8UwsZYo7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-ikon-connaught-lot-g-02a-ikon-connaught-kuala-lumpur?place=w.66650143.666698036.27398136"
+    }
+  },
+  {
+    "name": "Subway Atria",
+    "info": {
+      "address": "Atria Shopping Gallery, Lot C11, Jalan SS 22/23, Damansara Jaya, Petaling Jaya, 47400",
+      "coordinates": {
+        "lat": 3.1270963,
+        "lng": 101.6165176
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/dxHHzJcKaPBciuxQ7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-atria-shoppinggallery-lot-c11-atria-shopping-gallery-petaling-jaya?place=w.66584607.665977145.27398112"
+    }
+  },
+  {
+    "name": "Subway SS3",
+    "info": {
+      "address": "Jalan SS3/39, Ground Floor, Unit 16, Bangunan PJ21, Petaling Jaya, 47300",
+      "coordinates": {
+        "lat": 3.0912512,
+        "lng": 101.6149133
+      },
+      "operating_hours": [
+        "Monday - Saturday, 8:00 AM \u2013 10:00PM",
+        "Sunday, 8:00 AM \u2013 9:00PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/GwDY2X7bFFYhqUxw7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-ss3?place=ChIJuTzSm3VMzDERLk_bVVw9iTg"
+    }
+  },
+  {
+    "name": "Subway Ativo Plaza",
+    "info": {
+      "address": "Ativo Plaza, #1 Jalan PJU 9/1, Damansara Ave, B-G-2, Block B, Bandar Sri Damansara, Kuala Lumpur, 52200",
+      "coordinates": {
+        "lat": 3.0870371,
+        "lng": 101.612711
+      },
+      "operating_hours": [
+        "Monday - Saturday, 8:30 AM \u2013 10:00PM",
+        "Sunday, 8:30 AM \u2013 9:30PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/N52hsWT8pQvwf5VH9",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-ativo-plaza-jalan-pju-91-kuala-lumpur?place=w.66584608.665977152.5632979"
+    }
+  },
+  {
+    "name": "Subway Quill City (LG)",
+    "info": {
+      "address": "Quill City Mall, LG-02, No. 1018, Jalan Sultan Ismail, Kuala Lumpur , 50250",
+      "coordinates": {
+        "lat": 3.1599978,
+        "lng": 101.7005085
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/yVFrjrWUzqd2pf8b8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-quill-city-mall?place=ChIJl7-7OS9IzDERa282ngJCTKs"
+    }
+  },
+  {
+    "name": "Subway Sunway U",
+    "info": {
+      "address": "No. 27 Jalan PJS 11/9, Bandar Sunway, Petaling Jaya, 46150",
+      "coordinates": {
+        "lat": 3.0678184,
+        "lng": 101.6031071
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 8:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/3qQxoQSpVMLsb5SK6",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-sunway-university-no.-27-jalan-pjs-119,-bandar-sunway,-46150-subang-jaya?place=w.66584607.665846067.26717443"
+    }
+  },
+  {
+    "name": "Subway Kota Damansara",
+    "info": {
+      "address": "15-1, Jalan PJU 5/6, Dataran Sunway, Kota Damansara, Petaling Jaya, 47810",
+      "coordinates": {
+        "lat": 3.1532059,
+        "lng": 101.5949069
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 8:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/rN2UNvgmVmUNi4bB9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-@-dataran-sunway?place=ChIJjaT4bSBPzDERdko25w89Fq8"
+    }
+  },
+  {
+    "name": "Subway OUG",
+    "info": {
+      "address": "A1-07 Jalan 1/52, Taman OUG Parklane Off Jalan Klang Lama 58200 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.0823013,
+        "lng": 101.6684135
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/3Bb8VLRj2YDf3Pd16",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-oug-parklane?place=ChIJW9BS3nlLzDERdemjQm9QkBE"
+    }
+  },
+  {
+    "name": "Subway Petronas Kesas",
+    "info": {
+      "address": "Petronas Station, Lebuhraya Kesas Arah Barat KM34.5, Lebuhraya Kesas, 40000 Shah Alam, Selangor",
+      "coordinates": {
+        "lat": 3.073281,
+        "lng": 101.518461
+      },
+      "operating_hours": [
+        "Monday - Saturday, 7:30 AM \u2013 10:00PM",
+        "Sunday, 8:00 AM \u2013 10:00PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/pc933EaF121CGJRNA",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-petronas-kesas-highway-arah-barat-km34.-5?place=ChIJ9bLY5B5NzDERCu0iuXkBptY"
+    }
+  },
+  {
+    "name": "Subway Sri Petaling",
+    "info": {
+      "address": "No. 53, Jalan Radin Bagus, 57000 Sri Petaling, Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.0703916,
+        "lng": 101.6950263
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/t1FVkNRaSXPnS5Rg9",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-sri-petaling-jalan-radin-bagus-53-kuala-lumpur?place=w.66650143.666435891.12280737"
+    }
+  },
+  {
+    "name": "Subway Puncak Jalil",
+    "info": {
+      "address": "116 Jalan PUJ 3/2,Taman Puncak Jalil, Bandar Putra Permai,Seri Kembangan, 63300",
+      "coordinates": {
+        "lat": 3.0202228,
+        "lng": 101.6750218
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/5eAzE5yaxGokNs486",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/seri-kembangan/subway?place=ChIJzXasDDu1zTERjmQ2GXJQHxk"
+    }
+  },
+  {
+    "name": "Subway Aeon Alpha Angle",
+    "info": {
+      "address": "AEON Alpha Angle Shopping Ctr, Lot F37A, Jalan R1, Seksyen 1, Bandar Baru Wangsa Maju, Kuala Lumpur, 53300",
+      "coordinates": {
+        "lat": 3.2021198,
+        "lng": 101.7341702
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/JPTXrWWV6HJ9ukHS8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-aeon-alpha-angle?place=ChIJKfuHkjw4zDERcBLnlBYSXNw"
+    }
+  },
+  {
+    "name": "Subway My Town",
+    "info": {
+      "address": "Lot B1-07 & B1-08, Level Basement 1, MyTOWN Shopping Centre, Jalan Cochrane, Seksyen 90, Kuala Lumpur, 55100",
+      "coordinates": {
+        "lat": 3.1499222,
+        "lng": 101.6944619
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/A15xWaoETnt9qoXg9",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-mytown-shopping-centre-b1-07-and-b1-08,-mytown-shopping-centre,-55100-kuala-lumpur?place=w.66650143.666632505.27397019"
+    }
+  },
+  {
+    "name": "Subway Utropolis",
+    "info": {
+      "address": "G-B2a, Utropolis Marketplace, Jalan Kontracktor U1/14, Seksyen U1, 40150 Shah Alam, Selangor",
+      "coordinates": {
+        "lat": 3.0901139,
+        "lng": 101.5598641
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:30 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/6LGAGYkoyKS4HSD29",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-utropolis-marketplace-g-b2a,-utropolis-marketplace-shah-alam?place=w.66584607.665583925.27402093"
+    }
+  },
+  {
+    "name": "Subway Great Eastern Mall",
+    "info": {
+      "address": "Great Eastern Mall, Lot 4C Lower Ground Floor, No 303 Jalan Ampang, Kuala Lumpur, 50450",
+      "coordinates": {
+        "lat": 3.1600725,
+        "lng": 101.7369013
+      },
+      "operating_hours": [
+        "Monday - Friday, 8:30 AM \u2013 8:30PM",
+        "Saturday & Sunday, 9:30 AM \u2013 8:30PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/uBgU1Kgcog1Pc6Cy5",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-great-eastern-mall-great-eastern-mall,-lot-4c-lower-ground-floor-kuala-lumpur?place=w.66650144.666763580.27398397"
+    }
+  },
+  {
+    "name": "Subway NU Sentral",
+    "info": {
+      "address": "L4.13, Level Four, NU Sentral, No. 201 Jalan Tun Sambanthan, Kuala Lumpur, 50470",
+      "coordinates": {
+        "lat": 3.133294,
+        "lng": 101.6871504
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/DN5m5aDK6W3p1MA87",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-nu-sentral-l4.13,-level-four,-nu-sentral-kuala-lumpur?place=w.66650143.666435897.27398085"
+    }
+  },
+  {
+    "name": "Subway IOI City Mall",
+    "info": {
+      "address": "IOI City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya, Malaysia",
+      "coordinates": {
+        "lat": 2.970663,
+        "lng": 101.7136681
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/omECWDMxUMGpLtZc9",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-ioi-city-mall-ioi-city-mall,-lebuh-irc,-ioi-resort-city,-62502-putrajaya?place=w.66650142.666566953.27400823"
+    }
+  },
+  {
+    "name": "Subway Sunway Putra",
+    "info": {
+      "address": "Lot 4-60 & 4-79A, Fourth Floor, Sunway Putra Mall, No. 100, Jalan Putra, 50350 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1664256,
+        "lng": 101.6924194
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/Yj92g7xCixib3oJs7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-sunway-putra-mall?place=ChIJZ9G0hjxIzDERadDFIQqD8Ck"
+    }
+  },
+  {
+    "name": "Subway Sunway Pinnacle",
+    "info": {
+      "address": "M-01, Mezzanine Floor, The Pinnacle, Persiaran Lagoon, Bandar Sunway, 46150 Petaling Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.0701823,
+        "lng": 101.6100486
+      },
+      "operating_hours": [
+        "Monday - Friday, 8:00 AM \u2013 8:00PM",
+        "Saturday, 9:00 AM \u2013 6:00PM",
+        "Sunday, Closed"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/WprJxnWk1wHzqMsQ6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway@sunway-pinnacle?place=ChIJQ3L-SYFMzDER_wOO4aHBkQs"
+    }
+  },
+  {
+    "name": "Subway Melawati Mall",
+    "info": {
+      "address": "L3-22, Third Floor, Melawati Mall, UP2-01, Melawati Mall, 355, Jalan Bandar Melawati, Pusat Bandar Melawati, 53100 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.2109589,
+        "lng": 101.7487551
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/Dt3KDZhJdaQgB33x8",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-melawati-mall-lot-l3-22-melawati-mall,-ampang-kuala-lumpur?place=w.66650144.666829121.27398467"
+    }
+  },
+  {
+    "name": "Subway Sunway Medical",
+    "info": {
+      "address": "Sunway Medical Centre, Ground Floor,No. 5, Jalan Lagoon Selatan, 47500 Selangor",
+      "coordinates": {
+        "lat": 3.0659261,
+        "lng": 101.6093422
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 8:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/8rsNqhKayUFVNENK7",
+      "waze": "https://waze.com/ul?ll=3.066085,101.608626"
+    }
+  },
+  {
+    "name": "Subway Taman Melati",
+    "info": {
+      "address": "No. 71-G Jalan Melati Utama 4, Taman Melati Utama, 53100 Setapak, Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.222755,
+        "lng": 101.731182
+      },
+      "operating_hours": [
+        "Monday - Sunday, 7:30 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/muYtg6TkxqrufSB1A",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-taman-melati?place=ChIJO6zeoZQ5zDERd8uBXlgh8CE"
+    }
+  },
+  {
+    "name": "Subway Shell Melati",
+    "info": {
+      "address": "PT 5729, Batu 6 1/2, Ulu Gombak, 68100 Gombak. Selangor",
+      "coordinates": {
+        "lat": 3.0727807,
+        "lng": 101.6583464
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:30 AM - 6:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/kXkYuWm18FEXE9AU6",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-shell-melati-jalan-lingkaran-tengah-2,-pt5729,-shell-melati-kuala-lumpur?place=w.66650144.666632516.27398141"
+    }
+  },
+  {
+    "name": "Subway Shell Karak",
+    "info": {
+      "address": "PT 5946, Lebuhraya Karak, 68100 Gombak, Selangor",
+      "coordinates": {
+        "lat": 3.2411277,
+        "lng": 101.7161557
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:30 AM - 10:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/nipCMeggYvQaQF5SA",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-lebuhraya-karak-pt-5946,-lebuhraya-karak,-68100-gombak,-selangor-kuala-lumpur?place=w.66650144.666632516.27398042"
+    }
+  },
+  {
+    "name": "Subway Bukit Jalil",
+    "info": {
+      "address": "Level 1 Axiata Arena, KL Sport City, Bukit Jalil, 57000, Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.0534968,
+        "lng": 101.6924882
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/UBviLP94UWKkytNk8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-axiata-arena-bukit-jalil?place=ChIJ_1r32pdKzDERwqb1Q3n6L9o"
+    }
+  },
+  {
+    "name": "Subway Sentul Sky Awani",
+    "info": {
+      "address": "Ground Floor , Unit No. G-11, Residensi Awani, Sky Awani, No. 27 Jalan Sentul Perdana 51100, Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.2091741,
+        "lng": 101.6913723
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/xdEruuQhQkWEeHcYA",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-sky-awani-jalan-sentul-perdana-g-11-kuala-lumpur?place=w.66650144.666435905.27398084"
+    }
+  },
+  {
+    "name": "Subway Damansara Perdana",
+    "info": {
+      "address": "D-S-G-01, Metropolitan Square, Jalan PJU 8/1, Damansara Perdana, Petaling Jaya, 47820, Selangor",
+      "coordinates": {
+        "lat": 3.1664528,
+        "lng": 101.6075926
+      },
+      "operating_hours": [
+        "Monday - Friday, 8:00 AM \u2013 10:00PM",
+        "Saturday & Sunday, 8:00 AM \u2013 9:30PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/dgyqSw5g19U3XuVk7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-@-damansara-perdana-or-metropolitan-sq?place=ChIJWz04PAdPzDERiU-tHTIPyiY"
+    }
+  },
+  {
+    "name": "Subway Pearl Point",
+    "info": {
+      "address": "Lot No. 1.0.69 (Ground Floor), Pearl Point Shopping Mall, Batu 5, Jalan Klang Lama, 58000 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.0831533,
+        "lng": 101.6694446
+      },
+      "operating_hours": [
+        "Monday - Sunday (9:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.083153%2C101.669445",
+      "waze": "https://waze.com/ul?ll=3.083153,101.669445"
+    }
+  },
+  {
+    "name": "Subway Gurney Mall (UTMKL)",
+    "info": {
+      "address": "Lot 1-03, Level 1, Residensi UTMKL, No 8 Jalan Maktab, 54000 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1718095,
+        "lng": 101.7220624
+      },
+      "operating_hours": [
+        "Tuesday \u2013 Sunday, 10:00 AM \u2013 9:30PM",
+        "Monday, 8:00 AM \u2013 9:30PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/TDsSsK6Y3wzedQ128",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-utmkl?place=ChIJ7_y8Q5A3zDER6JGmn1Nfmqc"
+    }
+  },
+  {
+    "name": "Subway KLTS",
+    "info": {
+      "address": "45-G, Plaza KLTS, Block C, Jalan Gombak, 53000 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.2037477,
+        "lng": 101.7033755
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 9:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/2a9C18gCoATapSg88",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-klts?place=ChIJKd965yNHzDERs76aJJNwaw4"
+    }
+  },
+  {
+    "name": "Subway Jaya One",
+    "info": {
+      "address": "100-P2.015, Level 2, Block J, The School Jaya One, No.72A Jalan Prof Diraja Ungku Aziz, 46200 Petaling Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.1181392,
+        "lng": 101.6352265
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:30 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/oiLUvH9JV6PnbBgC8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-jaya-one?place=ChIJcQghqGVJzDERLSVTpukyla4"
+    }
+  },
+  {
+    "name": "Subway Petronas Grand Saga 3",
+    "info": {
+      "address": "Lot 432, Lebuhraya Grand Saga, (Kajang Bound) 43300, Kajang, Selangor",
+      "coordinates": {
+        "lat": 3.0219582,
+        "lng": 101.7725655
+      },
+      "operating_hours": []
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.025706%2C101.771637",
+      "waze": "https://waze.com/ul?ll=3.025706,101.771637"
+    }
+  },
+  {
+    "name": "Subway Sungai Buloh",
+    "info": {
+      "address": "2390, Jalan 1A-1, Bdr Baru Sg Buloh, Seksyen U20, 40610 Shah Alam, Selangor",
+      "coordinates": {
+        "lat": 3.2109117,
+        "lng": 101.5648128
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/mr6yUAZiQAvHPJSK6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/sungai-buloh/subway?place=ChIJN48KfTJFzDERqzad5XvCtwo"
+    }
+  },
+  {
+    "name": "Subway Subang Parade",
+    "info": {
+      "address": "LGC17, Lower Ground Floor, Subang Parade Shopping Centre, Jalan Kemajuan Subang, Ss 16, 47500 Subang Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.0814893,
+        "lng": 101.5851028
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/ej98EotPEY4YtKxj6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-subang-parade-mall?place=ChIJR-sOzp5NzDERyLXi0ZNbEGw"
+    }
+  },
+  {
+    "name": "Subway KL East Mall",
+    "info": {
+      "address": "LG 37 , Lower Ground Floor, KL East Mall, 823 Jalan Lingkaran Tengah 2, KL Timur, 53100 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.2247781,
+        "lng": 101.7304658
+      },
+      "operating_hours": [
+        "Sunday \u2013 Thursday, 10:00 AM \u2013 8:00PM",
+        "Friday & Saturday, 9:00 AM \u2013 8:00PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/PxaKbHBrtVcZ7iga6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-kl-east-mall?place=ChIJ98w9Q285zDERzcGnUTqyW_U"
+    }
+  },
+  {
+    "name": "Subway Bandar Sri Permaisuri",
+    "info": {
+      "address": "Lot R-G-07, Ground Floor Q Avenue, Kompleks Permaisuri Q, No.6,Jalan Sri Permaisuri, Bandar Sri Permaisuri, Cheras 56000 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1039063,
+        "lng": 101.7141938
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/oov3a7jwrvcd8jfG9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-bandar-sri-permaisuri?place=ChIJOdM1NoI1zDERNMFVeFKzCJk"
+    }
+  },
+  {
+    "name": "Subway Mahkota Cheras",
+    "info": {
+      "address": "32G, Jalan Temenggung 1/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+      "coordinates": {
+        "lat": 3.0509156,
+        "lng": 101.7893132
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 11:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/dLYF1g3fUgQJ1ukU9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/cheras/subway-mahkota-cheras?place=ChIJMyT9PzA1zDER7wCQsKhyL2s"
+    }
+  },
+  {
+    "name": "Subway KLCC",
+    "info": {
+      "address": "Lot F208, Second Floor, Suria KLCC, Jalan Ampang, Golden, 50088 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.158154,
+        "lng": 101.7120899
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/1NZZQ89hPEGveTDK8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-suria-klcc?place=ChIJ4w-9zNY3zDER1BwAcFWcn74"
+    }
+  },
+  {
+    "name": "Subway Sri Serdang",
+    "info": {
+      "address": "No 11 Jalan 18/34 Taman Sri Serdang, Seri Kembangan 43300 Selangor",
+      "coordinates": {
+        "lat": 3.0086244,
+        "lng": 101.7132879
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/yXmErWBo6ZEwcPLK7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-sri-serdang-jalan-1834-11-seri-kembangan?place=w.66650142.666566957.26164017"
+    }
+  },
+  {
+    "name": "Subway Kepong",
+    "info": {
+      "address": "91, Jalan Metro Barat Perdana 1, Taman Usahawan Kepong, 52100 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.2147435,
+        "lng": 101.64014
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 8:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/zRedGe6apJ4japYT8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-kepong-metro-prima?place=ChIJcyKJRLdHzDERdeFs6es6yK4"
+    }
+  },
+  {
+    "name": "Subway Damansara Damai",
+    "info": {
+      "address": "G001, Seasons Square, Jalan Pju 10/3C, Damansara Damai, 47830 Petaling Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.19596,
+        "lng": 101.59221
+      },
+      "operating_hours": [
+        "Monday - Sunday, 7:30 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/rnPNvHc4SQpbDdjaA",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-damansara-damai-outlet?place=ChIJC3Ibl2hFzDERwxPbt2vGpi4"
+    }
+  },
+  {
+    "name": "Subway Kidzania KL",
+    "info": {
+      "address": "Kidzania Kuala Lumpur, Lot 11, Lower Ground Curve NX, No.18 Jalan PJU 7/5, 47810 Mutiara Damansara, Petaling Jaya Selangor",
+      "coordinates": {
+        "lat": 3.1580336,
+        "lng": 101.6138
+      },
+      "operating_hours": [
+        "Mon - Sun : 10am-6pm\nTues : Close"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.158034%2C101.613800",
+      "waze": "https://waze.com/ul?ll=3.158034,101.613800"
+    }
+  },
+  {
+    "name": "Subway BTHO",
+    "info": {
+      "address": "No 5A, Ground Floor, Jalan Suarasa 8/3 Bandar Tun Hussien Onn, 43200 Cheras, Selangor Darul Ehsan",
+      "coordinates": {
+        "lat": 3.0481567,
+        "lng": 101.7600258
+      },
+      "operating_hours": [
+        "Monday - Sunday, 7:30 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/WNsWB84WREfrSYy69",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/cheras/subway-bandar-tun-hussein-onn?place=ChIJKQ4pWYM1zDER1Z5A7QP-0XI"
+    }
+  },
+  {
+    "name": "Subway Thomson Hospital",
+    "info": {
+      "address": "GF-Unit 1109-3, 11 Jalan Teknologi PJU 5, 47810 Kota Damansara, Petaling Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.149096,
+        "lng": 101.5786772
+      },
+      "operating_hours": [
+        "Monday - Friday, 8:00 AM \u2013 9:00PM",
+        "Saturday & Sunday, 9:00 AM \u2013 7:00PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/oSGFgtMyCeeffB3d7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-thomson-hospital-kota-damansara?place=ChIJA8VxjANPzDERHq2EmG3gs9Q"
+    }
+  },
+  {
+    "name": "Subway BHP Jalan Kuching",
+    "info": {
+      "address": "BHPetrol Jalan Kuching, Lot PT 4283 & Lot 6086 Jalan Kuching, 52100 Kuala Lumpur.",
+      "coordinates": {
+        "lat": 3.18844,
+        "lng": 101.6701582
+      },
+      "operating_hours": [
+        "Monday - Sunday, 7:30 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/pYoQ1F5JjfdNLnaz8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-bhp-jalan-kuching?place=ChIJH9__naBJzDERIoGI17o-ttQ"
+    }
+  },
+  {
+    "name": "Subway Hero Puchong",
+    "info": {
+      "address": "Lot No G-13 , Hero Puchong, Lot 1, Jalan Puteri 1/1 , 43200 Puchong, Selangor.",
+      "coordinates": {
+        "lat": 3.025863,
+        "lng": 101.6181331
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/tdBP9VqtXzmvmP2h7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/puchong/subway-@-hero-market-bandar-puteri?place=ChIJVVVVVaK0zTERxDwfsn9pkkI"
+    }
+  },
+  {
+    "name": "Subway Pavilion Bukit Jalil",
+    "info": {
+      "address": "Lot 1.40.00, Persiaran Jalil Utama, Bukit Jalil, Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.0488454,
+        "lng": 101.6735034
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:30 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/QuwwrZqjqoPPrkit7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-pavilion-bukit-jalil?place=ChIJ5feNFj5LzDERnz6TuHwTHFo"
+    }
+  },
+  {
+    "name": "Subway Petron Ukay Perdana",
+    "info": {
+      "address": "No. PT 5765, Jln Ukay Perdana, Ukay Perdana, 68000 Ampang, Selangor",
+      "coordinates": {
+        "lat": 3.1971288,
+        "lng": 101.7753044
+      },
+      "operating_hours": [
+        "Monday - Sunday (8:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/Spvjbzkbq7fPHydV7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/ampang/subway-petron-ukay-perdana?place=ChIJo0u0S085zDERqPaK5YAiCEU"
+    }
+  },
+  {
+    "name": "Subway Lotus Cheras",
+    "info": {
+      "address": "Lot G27-G29, No.2, Jalan Midah 2, Taman Midah, 56000 Cheras, Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.102042,
+        "lng": 101.7339485
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:30 AM - 9:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/cpwePtfnDd28FzYv8",
+      "waze": "https://waze.com/ul?ll=3.099541,101.734766"
+    }
+  },
+  {
+    "name": "Subway Equine Park",
+    "info": {
+      "address": "7-G, Jalan Putra Permai 1A, Taman Equine, 43300 Seri Kembangan, Selangor.",
+      "coordinates": {
+        "lat": 2.9961824,
+        "lng": 101.6697448
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/2CUh66BA6RAXyX7w9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/seri-kembangan/subway-equine-park?place=ChIJQWbBMNO1zTERb4qKY97QGxs"
+    }
+  },
+  {
+    "name": "Subway Syopz",
+    "info": {
+      "address": "G-5, The Boardwalk, No.2, Jalan Taylor\u2019s, 47500 Subang Jaya, Selangor Darul Ehsan",
+      "coordinates": {
+        "lat": 3.063596,
+        "lng": 101.6160041
+      },
+      "operating_hours": [
+        "Monday - Saturday, 10:00 AM \u2013 10:00PM",
+        "Sunday, Closed"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/N4JDGiG59DqRKZat8",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-syopz-mall-lot-lg1-7-taylor-college-lakeside-campus-subang-jaya?place=w.66584607.665977138.27399053"
+    }
+  },
+  {
+    "name": "Subway Matahari Mall",
+    "info": {
+      "address": "Lot S15 & S16 , Ground Floor, Matahari Mall, No. 1, PJS 2/18, Taman Maju Jaya, 46000 Petaling Jaya,Selangor",
+      "coordinates": {
+        "lat": 3.0798367,
+        "lng": 101.6380193
+      },
+      "operating_hours": [
+        "Monday - Sunday (10:00AM - 9:30PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.080121%2C101.638012",
+      "waze": "https://waze.com/ul?ll=3.080121,101.638012"
+    }
+  },
+  {
+    "name": "Subway SPARK",
+    "info": {
+      "address": "1-01 Plaza Salak Park, No 2, Jalan 1/125E, Taman Desa Petaling, 57100 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.0827782,
+        "lng": 101.7024706
+      },
+      "operating_hours": [
+        "Monday - Sunday (8:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.082778%2C101.702471",
+      "waze": "https://waze.com/ul?ll=3.082778,101.702471"
+    }
+  },
+  {
+    "name": "Subway Sunway Pyramid",
+    "info": {
+      "address": "LG2.32, Lower Ground Two, Sunway Pyramid, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.0720837,
+        "lng": 101.6063455
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/bVr1MZjQRaerx2gXA",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-sunway-pyramid?place=ChIJm21YdodMzDERFtdyEMzPHLI"
+    }
+  },
+  {
+    "name": "Subway Caltex Serdang",
+    "info": {
+      "address": "No.2, Lot.14985, Jalan SR 8/1, Taman Putra Indah, 43300, Seri Kembangan, Selangor",
+      "coordinates": {
+        "lat": 3.0470979,
+        "lng": 101.7044027
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/6W5uMsBiDnJwVpUUA",
+      "waze": "https://waze.com/ul?ll=3.047098,101.704403"
+    }
+  },
+  {
+    "name": "Subway Subang Bestari",
+    "info": {
+      "address": "No 4, Jalan Nova N U5/N, Seksyen U5, 40150 Shah Alam, Selangor",
+      "coordinates": {
+        "lat": 3.1772851,
+        "lng": 101.5466115
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/BsTqNngfYbkjEQr36",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-subang-bestari-jalan-nova-u5n-4-shah-alam?place=w.66519072.665518398.26851094"
+    }
+  },
+  {
+    "name": "Subway Denai Alam",
+    "info": {
+      "address": "Unit Ground Floor, No 7, Jalan Electron E U16/E, Seksyen U16, 40160 Shah Alam,Selangor",
+      "coordinates": {
+        "lat": 3.1612352,
+        "lng": 101.5118303
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:15 AM - 9:45 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/xuibU33eYiT38PU8A",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/shah-alam/subway-denai-alam?place=ChIJ-3Els5pRzDERJRqqSNFklxg"
+    }
+  },
+  {
+    "name": "Subway Aeon Taman Maluri",
+    "info": {
+      "address": "Lot G32,AEON Mall Taman Maluri, Jalan Jejaka, Taman Maluri Cheras 55100, Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1259253,
+        "lng": 101.7283988
+      },
+      "operating_hours": [
+        "Sunday - Thursday, 10:00 AM \u2013 10:00PM",
+        "Friday & Saturday, 10:00 AM \u2013 10:30PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/WGXEvMyz7oKAkDgN9",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/cheras/subway-aeon-taman-maluri?place=ChIJxZc1CgI3zDER0L07egWJ6A4"
+    }
+  },
+  {
+    "name": "Subway Subang Perdana",
+    "info": {
+      "address": "No. 17-G, Jalan Dinar D U3/D, Seksyen U3, 40150 Shah Alam, Selangor",
+      "coordinates": {
+        "lat": 3.1488191,
+        "lng": 101.5455463
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/z21eEUe2UrMas5Q98",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-subang-perdana?place=ChIJ4cb8F1BPzDERwkdC9tagYg0"
+    }
+  },
+  {
+    "name": "Subway KL Gateway",
+    "info": {
+      "address": "G1.K5, Lower Ground 1, KL Gateway Mall, 2, Jalan Kerinchi, 59200 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.114035,
+        "lng": 101.6634081
+      },
+      "operating_hours": [
+        "Monday - Sunday (8:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/tZqW9KhK6mJuBrrw7",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-kl-gateway-mall?place=ChIJ1cy2C85JzDERxEe6xZaRRyg"
+    }
+  },
+  {
+    "name": "Subway Lotuss Selayang",
+    "info": {
+      "address": "Lot F-18 & 18 (External) No. 1081, Jalan Ipoh Mukim Batu 51200 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.175161,
+        "lng": 101.6865518
+      },
+      "operating_hours": [
+        "Monday - Sunday (10:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.222777%2C101.670945",
+      "waze": "https://waze.com/ul?ll=3.222777,101.670945"
+    }
+  },
+  {
+    "name": "Subway Hartamas SC",
+    "info": {
+      "address": "Lot G-22A & G-22B . Hartamas Shopping Center, 60, Jalan Sri Hartamas 1, Taman Sri Hartamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.163504,
+        "lng": 101.656995
+      },
+      "operating_hours": [
+        "Monday - Sunday (10:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/zJ4kdFvRnY1FpnF88",
+      "waze": "https://waze.com/ul?ll=3.163504,101.656995"
+    }
+  },
+  {
+    "name": "Subway Paradigm Mall",
+    "info": {
+      "address": "LG-33A(P), LG Floor No. 1, Jalan SS7/26A Kelana Jaya 47301 Petaling Jaya Selangor",
+      "coordinates": {
+        "lat": 3.1050837,
+        "lng": 101.5960481
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/ykHHQ7a9KsjQMcqT7",
+      "waze": "https://waze.com/ul?ll=3.105084,101.596048"
+    }
+  },
+  {
+    "name": "Subway Damen",
+    "info": {
+      "address": "LG38, Lower Ground Floor Damen USJ 1 Jalan Persiaran Kewajipan USJ 1 47600 Subang Jaya",
+      "coordinates": {
+        "lat": 3.0585253,
+        "lng": 101.5926696
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/M2HQA2MUqAd8uxGw5",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-da-men?place=ChIJ9-92ti9NzDERgRUlEJ3Y8Wc"
+    }
+  },
+  {
+    "name": "Subway Tropicana Garden",
+    "info": {
+      "address": "CC-K55A, Concourse Floor, No. 2A, Persiaran Surian Tropicana Indah, 47810 Petaling Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.1491875,
+        "lng": 101.5930935
+      },
+      "operating_hours": [
+        "Monday - Sunday (10:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.149188%2C101.593094",
+      "waze": "https://waze.com/ul?ll=3.149188,101.593094"
+    }
+  },
+  {
+    "name": "Subway Main Place",
+    "info": {
+      "address": "LG33, Main Place Mall USJ, Jalan USJ 21/10, Persiaran Kewajipan, 47630 Subang Jaya, Selangor.  ",
+      "coordinates": {
+        "lat": 3.02632,
+        "lng": 101.5811466
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/Khdg1khwfWA8ZECm8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway?place=ChIJjb3QkzGzzTERYh-RwcOFeEY"
+    }
+  },
+  {
+    "name": "Subway Intermark Mall",
+    "info": {
+      "address": "The Intermark, Intermark Mall, 348, Jalan Tun Razak, 50400 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1621044,
+        "lng": 101.7203088
+      },
+      "operating_hours": [
+        "Monday - Sunday, 10:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/Goye5oEgmci3bTet8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-the-intermark?place=ChIJ48goZMU3zDERrTBFRU1gP-Mhttps://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-the-intermark?place=ChIJ48goZMU3zDERrTBFRU1gP-M"
+    }
+  },
+  {
+    "name": "Subway Central Square",
+    "info": {
+      "address": "23 Jalan Kampung Baru Lot GK-02 Central Square Shopping Center, 08000 Sungai Petani, Kedah",
+      "coordinates": {
+        "lat": 5.600962,
+        "lng": 100.4718638
+      },
+      "operating_hours": [
+        "Monday - Sunday, 9:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/WRtYWEYp9agkhXQo7",
+      "waze": "https://www.waze.com/en/live-map/directions/subway-central-square-lot-gk-02,-central-square-shopping-center-sungai-petani?place=w.65863736.658571828.27396324"
+    }
+  },
+  {
+    "name": "Subway The Grand SS15",
+    "info": {
+      "address": "G7, The Grand Subang Jaya, Jalan SS 15/8a, Ss 15, 47500 Subang Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.0744152,
+        "lng": 101.5902974
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/cb36hRG6bDSPN8Vy6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-the-grand-subang-jaya?place=ChIJJxTAK6JNzDER4MbW2WX_jG0"
+    }
+  },
+  {
+    "name": "Subway Radia Bukit Jelutong",
+    "info": {
+      "address": "G0-23, Radia Sales Gallery, Persiaran Arked, Bukit Jelutong, 40150 Shah Alam, Selangor",
+      "coordinates": {
+        "lat": 3.1001976,
+        "lng": 101.5350661
+      },
+      "operating_hours": [
+        "Monday - Sunday, 7:30 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/YCdczRvGbgvu9ENc8",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/shah-alam/subway-radia-bukit-jelutong?place=ChIJ98G9H_JNzDERRS_vEqme9_s"
+    }
+  },
+  {
+    "name": "Subway Kelana Jaya (KJ)",
+    "info": {
+      "address": "Suite 109b, Ground Floor, Office Tower, Kelana Park View, No.1, Jalan SS6/2, 47301 Petaling Jaya, Selangor",
+      "coordinates": {
+        "lat": 3.1008867,
+        "lng": 101.5991613
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:30 AM - 8:30 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/XT6AxGdgDyoSsznU6",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-kelana-jaya-or-kelana-parkview?place=ChIJRU4RwhBMzDERZ_FO9UjGJ7g"
+    }
+  },
+  {
+    "name": "Subway Sierra 16 Puchong",
+    "info": {
+      "address": "Lot 3A-1, Sierra Fresco, Jln Sierra 10/1, Bandar 16 Sierra, 47110 Puchong, Selangor.",
+      "coordinates": {
+        "lat": 2.9744255,
+        "lng": 101.6550518
+      },
+      "operating_hours": [
+        "Monday - Sunday (8:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://goo.gl/maps/xZD4WvZYpJAboti79",
+      "waze": "https://www.waze.com/en/live-map/directions/my/selangor/puchong/subway16sierra?place=ChIJ4cJ0tYW1zTERx74e0tVmW9g"
+    }
+  },
+  {
+    "name": "Subway Caltex Bukit Indah Ampang",
+    "info": {
+      "address": "Caltex Bukit Indah, PT13887, Medan Bukit Indah, Taman Bukit Indah, 69000 Ampang, Selangor",
+      "coordinates": {
+        "lat": 3.152899300000001,
+        "lng": 101.7743256
+      },
+      "operating_hours": [
+        "Monday - Sunday, 8:00 AM - 10:00 PM"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.152855%2C101.774414",
+      "waze": "https://waze.com/ul?ll=3.152855,101.774414"
+    }
+  },
+  {
+    "name": "Subway Taman Danau Desa",
+    "info": {
+      "address": "Monday - Sunday (8:00AM - 10:00PM)",
+      "coordinates": null,
+      "operating_hours": []
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.100857%2C101.687222",
+      "waze": "https://waze.com/ul?ll=3.100857,101.687222"
+    }
+  },
+  {
+    "name": "Subway Setapak Central Mall",
+    "info": {
+      "address": "Kl Festival City, Lot S-23, No 67 Jalan Taman Ibu Kota, Taman Danau Kota, Setapak, Kuala Lumpur, 53200",
+      "coordinates": {
+        "lat": 3.203307,
+        "lng": 101.719195
+      },
+      "operating_hours": [
+        "Monday - Sunday (10:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.205267%2C101.720020",
+      "waze": "https://waze.com/ul?ll=3.205267,101.720020"
+    }
+  },
+  {
+    "name": "Subway Taman Ehsan",
+    "info": {
+      "address": "No 520(GF) Jalan E3/8, Tmn Ehsan, 52100 Kepong, Selangor",
+      "coordinates": {
+        "lat": 3.213966,
+        "lng": 101.6355931
+      },
+      "operating_hours": [
+        "Monday - Sunday (8:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.220409%2C101.622847",
+      "waze": "https://waze.com/ul?ll=3.220409,101.622847"
+    }
+  },
+  {
+    "name": "Subway Taman Sri Muda",
+    "info": {
+      "address": "No 40 (GF), Jalan Murni 25/61, Taman Sri Muda, 40400 Shah Alam, Selangor",
+      "coordinates": {
+        "lat": 3.0327538,
+        "lng": 101.5365242
+      },
+      "operating_hours": [
+        "Monday - Sunday (8:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.032726%2C101.536497",
+      "waze": "https://waze.com/ul?ll=3.032726,101.536497"
+    }
+  },
+  {
+    "name": "Subway Mid Valley KL",
+    "info": {
+      "address": "1st Floor, Zone 3, Kiosk FK-05, Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1176991,
+        "lng": 101.6774777
+      },
+      "operating_hours": [
+        "Monday - Sunday (8:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.118753%2C101.677459",
+      "waze": "https://waze.com/ul?ll=3.118753,101.677459"
+    }
+  },
+  {
+    "name": "Subway Lotus Ampang",
+    "info": {
+      "address": "LOTUS\u2019S AMPANG - OL1, Jalan Pandan Prima Dataran, Pandan Indah, 55100 Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.1439057,
+        "lng": 101.741801
+      },
+      "operating_hours": [
+        "Monday - Sunday (10:00AM - 10:00PM)",
+        " "
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.143814%2C101.741630",
+      "waze": "https://waze.com/ul?ll=3.143814,101.741630"
+    }
+  },
+  {
+    "name": "Subway Razak City",
+    "info": {
+      "address": "Block B-G-19 Residensi Bandar Razak, No 01 Jln Razak Mansion, 57100 Sungai Besi, K.L",
+      "coordinates": {
+        "lat": 3.1072241,
+        "lng": 101.705347
+      },
+      "operating_hours": [
+        "Monday - Sunday (08:00AM to 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.108465%2C101.706308",
+      "waze": "https://waze.com/ul?ll=3.108465,101.706308"
+    }
+  },
+  {
+    "name": "Subway Aeon Cheras Selatan",
+    "info": {
+      "address": "F60, First Floor, \u00c6ON Cheras Selatan, Lebuh Utama Tun Hussein Onn, Tun Hussein Onn, Cheras, Selangor",
+      "coordinates": {
+        "lat": 3.0487469,
+        "lng": 101.7586648
+      },
+      "operating_hours": [
+        "Monday to Sunday (10:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.033015%2C101.765206",
+      "waze": "https://waze.com/ul?ll=3.033015,101.765206"
+    }
+  },
+  {
+    "name": "Subway Kiara Bay",
+    "info": {
+      "address": "\"Lot G-22, The Beat Kiara Bay Kepong Metropolitan Park,Jalan Lingkaran Tengah 52100 Kuala Lumpur.\"",
+      "coordinates": {
+        "lat": 3.224691,
+        "lng": 101.645645
+      },
+      "operating_hours": [
+        "Monday - Sunday (10:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.226999%2C101.650259",
+      "waze": "https://waze.com/ul?ll=3.226999,101.650259"
+    }
+  },
+  {
+    "name": "Subway Putra Ampang",
+    "info": {
+      "address": "No 46-G, Jalan Bunga Tanjung 9B, Taman Putra, Ampang 68000, Selangor",
+      "coordinates": {
+        "lat": 3.1200879,
+        "lng": 101.7624429
+      },
+      "operating_hours": [
+        "Monday - Sunday (08:00AM - 10:00PM)"
+      ]
+    },
+    "direction": {
+      "gmap": "https://www.google.com/maps/search/?api=1&query=3.120457%2C101.762861",
+      "waze": "https://waze.com/ul?ll=3.120457,101.762861"
+    }
+  }
+]

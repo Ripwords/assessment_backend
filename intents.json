@@ -1,14 +1,27 @@
 {
   "intents": [
     {
-      "tag": "operating_hour",
+      "tag": "operating_earliest",
       "patterns": [
-        "What are your operating hours?",
+        "Which store opens the earliest?",
         "What time are you open?",
-        "What stores closest the latest?"
+        "Where can i get subway in the morning the fastest?",
+        "What time does the store open?"
       ],
       "responses": [
-        "operating_hour"
+        "operating_earliest"
+      ]
+    },
+    {
+      "tag": "operating_latest",
+      "patterns": [
+        "Which store closes the latest?",
+        "What time do you close?",
+        "Where can i get subway in the latest at night?",
+        "What time does the store close?"
+      ],
+      "responses": [
+        "operating_latest"
       ]
     },
     {
@@ -20,6 +33,21 @@
       ],
       "responses": [
         "count_stores"
+      ]
+    },
+    {
+      "tag": "others",
+      "patterns": [
+        "What is your address?",
+        "What is your phone number?",
+        "What is your email address?",
+        "What is your website?",
+        "What is your social media?",
+        "gfsdrfgsdf",
+        "sdfgqerherth"
+      ],
+      "responses": [
+        "others"
       ]
     }
   ]

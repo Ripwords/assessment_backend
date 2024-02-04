@@ -35,7 +35,7 @@ def answer_type(text):
   result = model.predict(keras.preprocessing.sequence.pad_sequences(tokenizer.texts_to_sequences([text]), truncating='post', maxlen=20))
   tag = lbl_encoder.inverse_transform([np.argmax(result)])
 
-  return tag
+  return tag[0]
 
 
 app = Flask(__name__)
@@ -119,11 +119,71 @@ def ask():
     if not question:
         return {"error": "Please provide a question"}, 400
     
-    answerType = answer_type(question)[0]
-    print(question)
+    location = str(request.args.get('location'))
+    # Get data from this location in the database
+    location_data = next((location for location in database if location["name"] == location), None)
+    
+    answerType = answer_type(question)
     analysis = model.analyze(question)
 
-    return {"answerType": answerType, "analyzed": json.dumps(analysis)}
+    if (answerType == 'count_stores'):
+        for i in analysis:
+            if (i['type'] == 'GPE'):
+                # Go through the database and count the number of stores with the location in the address
+                count = 0
+                for location in database:
+                    if i['text'][0] in location["info"]["address"]:
+                        count += 1
+                    elif i['text'][0] == 'KL':
+                        if 'Kuala Lumpur' in location["info"]["address"]:
+                            count += 1
+                print(count)
+                return {'response': f"There are {count} store{'s' if count > 1 else ''} in {' '.join(i['text'])}."}
+
+    elif (answerType == 'operating_earliest'):
+        # Go through the database and find the operating hours of the store
+        earliest = 0
+        earliest_location = ''
+        for location in database:
+        #    Find the earliest opening time by finding the smallest number of the first encountered number, some are 24hr format 0800, ignore the first number if it is 0
+            if location["info"]["operating_hours"]:
+                operating_hours = location["info"]["operating_hours"]
+                for time in operating_hours:
+                    timeSplit = time.split(":")
+                    # extract the numbers from the first element of the split
+                    processTimeSplit = "".join([s for s in timeSplit[0] if s.isdigit()])
+                    timeSplitNum = int(processTimeSplit) if processTimeSplit != "" else 0
+                    if (timeSplitNum < earliest or earliest == 0) and timeSplitNum != 0:
+                        earliest = timeSplitNum
+                        earliest_location = location["name"]
+        return {'response': f"The earliest operating hour for {earliest_location} is {earliest}."}
+    
+    elif (answerType == 'operating_latest'):
+        latest = 0
+        latest_location = ''
+        for location in database:
+            if location["info"]["operating_hours"]:
+                operating_hours = location["info"]["operating_hours"]
+                # time maybe be in 2230 or 11:30PM format, find the latest time
+                # convert to 24hr format by checking if it is PM
+                if "PM" in operating_hours[-1]:
+                    processTimeSplit = "".join([s for s in operating_hours[-1] if s.isdigit()])
+                    timeSplitNum = int(processTimeSplit) + 1200 if processTimeSplit != "" else 0
+                elif "AM" not in operating_hours[-1] and "PM" not in operating_hours[-1]:
+                    # if it is in 24hr format
+                    processTimeSplit = "".join([s for s in operating_hours[-1] if s.isdigit()])
+                    timeSplitNum = int(processTimeSplit) if processTimeSplit != "" else 0
+                else:
+                    continue
+                    
+                if timeSplitNum > latest:
+                    latest = timeSplitNum
+                    latest_location = location["name"]
+
+        return {'response': f"The latest operating hour for {latest_location} is {latest}."}
+            
+    elif (answerType == 'others'):
+        return {'response': 'I am sorry, I do not understand the question.'}
 
 if __name__ == '__main__':
     app.run()

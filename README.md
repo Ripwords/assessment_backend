@@ -16,6 +16,8 @@ The .env file should contain your geocoding API Key from Google, and an API Key 
 
 To apply for the geocoding API Key from Google, visit the following link: [Google Geocoding Services](https://developers.google.com/maps/documentation/javascript/geocoding#GetStarted)
 
+The "MY_SECRET" is a secret key that will be used to authenticate the requests to the server.
+
 ```bash
 GEOCODE_API_KEY=your_geocoding_api_key
 MY_SECRET=your_secret
